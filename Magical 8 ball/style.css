@@ -1,0 +1,21 @@
+body {
+  text-align: center;
+  margin-left: 500px;
+  margin-right: 500px;
+  border-radius: 5px;
+  color: magenta;
+}
+
+html {
+  background-color: purple;
+}
+
+img {
+  width: 400px;
+}
+
+.input {
+  color: magenta;
+  background-color: blueviolet;
+  border-color: purple;
+}
